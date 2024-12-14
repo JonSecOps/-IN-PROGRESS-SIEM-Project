@@ -13,3 +13,5 @@ This project involves simulating a Brute Force Password Attack in a secure envir
 2.	**Brute Force Attack Execution**: Configuring and using tools in Kali Linux to simulate brute force attacks. Analyzing attack success and vulnerabilities.
 3.	**SIEM Monitoring**: Using Splunk to track and visualize security events. Understanding the importance of telemetry in attack detection.
 4.	**Security Awareness**: Recognizing the signs of brute force attacks in a real-world scenario. Applying proactive measures to safeguard enterprise systems.
+
+https://github.com/JonSecOps/SIEM-Active-Directory-Brute-Force-Password-Attack-Project/blob/main/SIEM%20-%20ACTIVE%20DIRECTORY%20-%20BRUTE%20FORCE%20PASSWORD%20ATTACK%20PROJECT.pdf
