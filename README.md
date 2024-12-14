@@ -4,9 +4,9 @@
 This project involves simulating a Brute Force Password Attack in a secure environment using Active Directory (AD)and SIEM (Splunk) tools. The key objective is to demonstrate how a brute force attack is executed, logged, and detected through telemetry. It covers setting up Active Directory with users, configuring a Kali Linux attacker machine, running brute force attack commands, and visualizing the attack using Splunk.
 
 **Key Components**:
-1.	Active Directory Server Setup: Added users and configurations to simulate a real-world domain environment.
-2.	Kali Linux Machine: Used as the attacking system to perform brute force password attacks.
-3.	SIEM (Splunk): Monitored and visualized telemetry to detect and analyze the brute force attack.
+1.	**Active Directory Server Setup**: Added users and configurations to simulate a real-world domain environment.
+2.	**Kali Linux Machine**: Used as the attacking system to perform brute force password attacks.
+3.	**SIEM (Splunk)**: Monitored and visualized telemetry to detect and analyze the brute force attack.
 
 **Learning Points:**
 1.	**Active Directory Basics**: Setting up and managing users in an AD environment. Understanding the role of AD in enterprise security.
